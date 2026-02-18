@@ -7,6 +7,8 @@
 			"files": [
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/ThirdPerson/Blueprints/Controllers/AIC_Enemy_Base.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/ThirdPerson/Blueprints/AI_Enemy/BB_EnemyBase.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/ThirdPerson/Blueprints/AI_Enemy/BehaviorTree/BT_EnemyBase.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OD/7651LZAJVENAU6RG4TJG5Z.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF/Content/Custom_Blueprints/BP_Ball.uasset",
