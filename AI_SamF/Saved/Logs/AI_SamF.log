@@ -10232,3 +10232,178 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.25-18.18.51:334][400]LogInterchangeEngine: [Pending] Importing
 [2026.03.25-18.18.51:566][400]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.03.25-18.18.51:566][400]LogInterchangeEngine: [Success] Import Done
+[2026.03.25-18.23.02:061][291]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-18.23.02:180][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2026.03.25-18.23.02:186][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2026.03.25-18.23.02:189][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2026.03.25-18.23.02:193][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2026.03.25-18.23.02:196][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/7543c1993ea9004cfb13f121e6178184328a2939
+[2026.03.25-18.23.02:198][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2026.03.25-18.23.02:199][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/3678add87405a533a63f8c63405fd3872934eb70
+[2026.03.25-18.23.02:201][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2026.03.25-18.23.02:203][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/0039fa8b3d30571768c6e2e8a228b24462c99773
+[2026.03.25-18.23.02:205][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2026.03.25-18.23.02:206][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/8d752f166115608d88fc66d7135fb3660f467905
+[2026.03.25-18.23.02:207][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/79d0542ccb2b53f9a6cf1f75c0efc1ab6114465e
+[2026.03.25-18.23.02:209][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2026.03.25-18.23.02:210][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/c33cdf61b1759d64d60a79c02b507097f481d439
+[2026.03.25-18.23.02:214][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2026.03.25-18.23.02:215][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/6baaf7a493b46c8f182c1b332f3cc0ad9ad6a7ca
+[2026.03.25-18.23.02:217][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2026.03.25-18.23.02:221][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/a2f8b3e6e258e69f66c4750345a6d04fa186676d
+[2026.03.25-18.23.02:221][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2026.03.25-18.23.02:224][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2026.03.25-18.23.02:229][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2026.03.25-18.23.02:233][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/b4f6faf6e3256687135aa3d63ce98a8e6e719e1b
+[2026.03.25-18.23.02:233][291]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2026.03.25-18.23.02:234][291]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2026.03.25-18.23.02:236][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/2bfd472aee643cd4295f2586797f8135f9dae6de
+[2026.03.25-18.23.02:246][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/550803040c47490b6c57b6aa805c16c7fc04baaf
+[2026.03.25-18.23.02:251][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/ea9db8a89f8b57a0f223817617ed96e2e9f9766e
+[2026.03.25-18.23.02:252][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/623c1152872d741d740a24448bfa2d186bcf2250
+[2026.03.25-18.23.02:254][291]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/92386e9715671fef8e368dde66a77cbd8131d477
+[2026.03.25-18.23.02:281][291]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2026.03.25-18.23.04:433][291]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2026.03.25-18.23.04:433][291]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2026.03.25-18.23.06:893][291]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2026.03.25-18.23.06:906][291]LogSkeletalMesh: Built Skeletal Mesh [4.67s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2026.03.25-18.23.17:203][378]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.03.25-18.23.17:203][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.25-18.23.17:208][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.25-18.23.17:418][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.25-18.25.05:418][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1728.780029
+[2026.03.25-18.25.06:418][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.25.06:418][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1729.447510, Update Interval: 336.466553
+[2026.03.25-18.26.30:416][173]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC
+[2026.03.25-18.26.30:476][173]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.03.25-18.26.30:482][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.25-18.26.49:705][347]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD
+[2026.03.25-18.26.49:760][347]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.25-18.26.49:795][347]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-18.26.49:795][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-18.26.49:870][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.25-18.27.11:174][802]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.27.11:175][802]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD, at AnimationSequence/8f7c7ac5db30c6e7b8f059ca16cb1ab8d3c0cf88
+[2026.03.25-18.27.52:159][527]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.27.52:160][527]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD, at AnimationSequence/0d383e82d4eaf1501fd8bdc8c05902e0a8999796
+[2026.03.25-18.27.55:826][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.27.55:869][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD] ([1] browsable assets)...
+[2026.03.25-18.27.55:875][931]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD]
+[2026.03.25-18.27.55:875][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD]
+[2026.03.25-18.27.55:883][931]LogSavePackage: Moving output files for package: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD
+[2026.03.25-18.27.55:883][931]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_CD86FCD1A74A920330241BA686F2533E57.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.uasset'
+[2026.03.25-18.27.55:924][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.148 ms
+[2026.03.25-18.27.55:970][931]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.27.55:970][931]LogContentValidation: Enabled validators:
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.27.55:970][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.27.55:970][931]AssetCheck: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD Validating asset
+[2026.03.25-18.27.59:843][334]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU
+[2026.03.25-18.27.59:896][334]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.25-18.27.59:931][334]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-18.27.59:931][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-18.27.59:976][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.25-18.28.03:939][769]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.28.03:939][769]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU, at AnimationSequence/761f505355bf6a95171d1ecfb26ad6c6c98f4ad3
+[2026.03.25-18.28.20:611][643]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.28.20:613][643]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU, at AnimationSequence/c22af16a97f5957b27a85343a2f0d7b00965ba19
+[2026.03.25-18.28.23:986][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.28.24:037][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU] ([1] browsable assets)...
+[2026.03.25-18.28.24:043][  4]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU]
+[2026.03.25-18.28.24:043][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU]
+[2026.03.25-18.28.24:051][  4]LogSavePackage: Moving output files for package: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU
+[2026.03.25-18.28.24:051][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_CU08E222084C133138FFA6A0AEA5EC76E7.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.uasset'
+[2026.03.25-18.28.24:090][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.683 ms (total: 201.831 ms)
+[2026.03.25-18.28.24:119][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.28.24:119][  4]LogContentValidation: Enabled validators:
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.28.24:119][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.28.24:119][  4]AssetCheck: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU Validating asset
+[2026.03.25-18.28.28:621][487]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC
+[2026.03.25-18.28.28:675][487]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.25-18.28.28:712][487]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-18.28.28:712][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-18.28.28:753][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.25-18.28.32:295][872]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.28.32:296][872]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC, at AnimationSequence/485dfdbda0778b545aae6f63d3654a4ad184ff3d
+[2026.03.25-18.28.35:192][196]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.28.35:194][196]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC, at AnimationSequence/b9fdaa6427e64c68f5c266c32dd96d3a81c6d022
+[2026.03.25-18.28.46:232][410]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC (Required Memory Estimate: 0.25 MB)
+[2026.03.25-18.28.46:233][410]LogAnimationCompression: Display: Storing compressed animation data for /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC, at AnimationSequence/b721aee42dfa7192c89da8ea2709a97c24786f69
+[2026.03.25-18.28.48:451][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.28.48:506][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC] ([1] browsable assets)...
+[2026.03.25-18.28.48:512][639]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC]
+[2026.03.25-18.28.48:512][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC]
+[2026.03.25-18.28.48:520][639]LogSavePackage: Moving output files for package: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC
+[2026.03.25-18.28.48:520][639]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_CCC7A54A844D52CF4474B8248B6DB7F663.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.uasset'
+[2026.03.25-18.28.48:557][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.985 ms (total: 307.817 ms)
+[2026.03.25-18.28.48:606][639]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.28.48:606][639]LogContentValidation: Enabled validators:
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.28.48:606][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.28.48:607][639]AssetCheck: /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC Validating asset
+[2026.03.25-18.29.23:475][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.25-18.29.23:478][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2026.03.25-18.29.23:478][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/BS_Rifle] ([1] browsable assets)...
+[2026.03.25-18.29.23:484][146]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_Rifle.BS_Rifle]
+[2026.03.25-18.29.23:484][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/BS_Rifle]
+[2026.03.25-18.29.23:485][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/BS_Rifle_Auto2
+[2026.03.25-18.29.23:486][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/BS_Rifle_Auto21DC1F2FF42BC411FC705809A0044F893.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/BS_Rifle_Auto2.uasset'
+[2026.03.25-18.29.23:487][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD] ([1] browsable assets)...
+[2026.03.25-18.29.23:491][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD.MM_Rifle_Idle_ADS_AO_LBD]
+[2026.03.25-18.29.23:491][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD]
+[2026.03.25-18.29.23:499][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD_Auto2
+[2026.03.25-18.29.23:499][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_LBD_Auto2DF1FAC6D4374A7682CF5A79C7F49C9BD.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD_Auto2.uasset'
+[2026.03.25-18.29.23:500][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC] ([1] browsable assets)...
+[2026.03.25-18.29.23:505][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC.MM_Rifle_Idle_ADS_AO_LBC]
+[2026.03.25-18.29.23:505][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC]
+[2026.03.25-18.29.23:512][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC_Auto2
+[2026.03.25-18.29.23:512][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_LBC_Auto278E852CF48203181224A84BFA1D6A258.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC_Auto2.uasset'
+[2026.03.25-18.29.23:512][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU] ([1] browsable assets)...
+[2026.03.25-18.29.23:518][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU.MM_Rifle_Idle_ADS_AO_LU]
+[2026.03.25-18.29.23:518][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU]
+[2026.03.25-18.29.23:525][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU_Auto2
+[2026.03.25-18.29.23:525][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_LU_Auto2C6E2F71145679238CC810B8D4BB8881C.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU_Auto2.uasset'
+[2026.03.25-18.29.23:527][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC] ([1] browsable assets)...
+[2026.03.25-18.29.23:530][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC.MM_Rifle_Idle_ADS_AO_RBC]
+[2026.03.25-18.29.23:530][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC]
+[2026.03.25-18.29.23:537][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC_Auto2
+[2026.03.25-18.29.23:537][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RBC_Auto289FD219C48F9BB9A9EB1FA8956F59AE3.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC_Auto2.uasset'
+[2026.03.25-18.29.23:538][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD] ([1] browsable assets)...
+[2026.03.25-18.29.23:543][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD.MM_Rifle_Idle_ADS_AO_RBD]
+[2026.03.25-18.29.23:543][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD]
+[2026.03.25-18.29.23:551][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD_Auto2
+[2026.03.25-18.29.23:551][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RBD_Auto26D592A9243774B85F85BD99889F34EA9.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD_Auto2.uasset'
+[2026.03.25-18.29.23:552][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU] ([1] browsable assets)...
+[2026.03.25-18.29.23:557][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU.MM_Rifle_Idle_ADS_AO_RBU]
+[2026.03.25-18.29.23:557][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU]
+[2026.03.25-18.29.23:564][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU_Auto2
+[2026.03.25-18.29.23:564][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RBU_Auto279EAAA25448D2AC01F54D2923CDA03B7.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU_Auto2.uasset'
+[2026.03.25-18.29.23:566][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC] ([1] browsable assets)...
+[2026.03.25-18.29.23:570][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC.MM_Rifle_Idle_ADS_AO_RC]
+[2026.03.25-18.29.23:570][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC]
+[2026.03.25-18.29.23:578][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC_Auto2
+[2026.03.25-18.29.23:578][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RC_Auto221543C0746F6C0B0A635B9B9F928660F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC_Auto2.uasset'
+[2026.03.25-18.29.23:579][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD] ([1] browsable assets)...
+[2026.03.25-18.29.23:582][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD.MM_Rifle_Idle_ADS_AO_RD]
+[2026.03.25-18.29.23:582][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD]
+[2026.03.25-18.29.23:590][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD_Auto2
+[2026.03.25-18.29.23:590][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RD_Auto2F9C6CF424940A979FDF92F8D28144C33.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD_Auto2.uasset'
+[2026.03.25-18.29.23:591][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU] ([1] browsable assets)...
+[2026.03.25-18.29.23:595][146]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU.MM_Rifle_Idle_ADS_AO_RU]
+[2026.03.25-18.29.23:595][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU]
+[2026.03.25-18.29.23:604][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU_Auto2
+[2026.03.25-18.29.23:604][146]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/MM_Rifle_Idle_ADS_AO_RU_Auto28FB0701145AEDDBA14746183A9646937.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF/AI_SamF/Saved/Autosaves/Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU_Auto2.uasset'
+[2026.03.25-18.29.23:605][146]LogFileHelpers: Auto-saving content packages took 0.126
